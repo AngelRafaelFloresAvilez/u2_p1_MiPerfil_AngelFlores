@@ -26,7 +26,7 @@ botonNombre.addEventListener("click", function() {
 
     if (!nombreMostrado) {
         const mensajeD = document.createElement("p");
-        mensajeD.textContent = "Angel Rafael Flores Avilezzzz";
+        mensajeD.textContent = "Angel Rafael Flores Avilez";
         mensajeD.style.color = "#27ae60";
         mensajeD.style.fontWeight = "bold";
         seccionNombre.appendChild(mensajeD);
